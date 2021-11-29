@@ -74,7 +74,7 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./site
 
       - name: Assign version number
         uses: mtkennerly/dunamai-action@v1
