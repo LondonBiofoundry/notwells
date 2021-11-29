@@ -1,4 +1,4 @@
-name: release & publish workflow
+name: publish
 
 # Controls when the action will run.
 on:
