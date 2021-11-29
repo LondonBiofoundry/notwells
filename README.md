@@ -4,6 +4,7 @@
 [![python](https://img.shields.io/pypi/pyversions/notwells.svg)](https://pypi.org/project/notwells/)
 [![Build Status](https://github.com/LondonBiofoundry/notwells/actions/workflows/push.yml/badge.svg)](https://github.com/LondonBiofoundry/notwells/actions/workflows/push.yml)
 [![codecov](https://codecov.io/gh/LondonBiofoundry/notwells/branch/main/graphs/badge.svg)](https://codecov.io/github/LondonBiofoundry/notwells)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 A framework to describe liquid transfers using reagents, not wells!
 
