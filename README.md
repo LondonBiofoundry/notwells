@@ -1,5 +1,6 @@
 # notwells
 
+[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
 [![pypi](https://img.shields.io/pypi/v/notwells.svg)](https://pypi.org/project/notwells/)
 [![python](https://img.shields.io/pypi/pyversions/notwells.svg)](https://pypi.org/project/notwells/)
 [![Build Status](https://github.com/LondonBiofoundry/notwells/actions/workflows/push.yml/badge.svg)](https://github.com/LondonBiofoundry/notwells/actions/workflows/push.yml)
